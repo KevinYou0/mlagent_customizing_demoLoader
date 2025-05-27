@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d3d323a-2ccb-40a2-a2b6-439673e99c1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/3DBall/Scenes/3DBall.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/3DBall/Scenes/3DBall.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/3DBall/Scenes/3DBallHard.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/3DBall/Scenes/3DBallHard.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/GridWorld/Prefabs/agentRenderTexture.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/GridWorld/Prefabs/agentRenderTexture.renderTexture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/PushBlockWithInput/Scripts/PushBlockActions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/PushBlockWithInput/Scripts/PushBlockActions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/Pyramids/Scenes/Pyramids.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/Assets/ML-Agents/Examples/Pyramids/Scenes/Pyramids.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlagents/trainers/env_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlagents/trainers/env_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlagents/trainers/ppo/optimizer_torch.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlagents/trainers/ppo/optimizer_torch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlagents/trainers/torch_entities/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlagents/trainers/torch_entities/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlagents/trainers/torch_entities/networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlagents/trainers/torch_entities/networks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlagents/trainers/trainer/on_policy_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlagents/trainers/trainer/on_policy_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlagents/trainers/trainer/rl_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlagents/trainers/trainer/rl_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlagents/trainers/trainer_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlagents/trainers/trainer_controller.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZN3RkccDglOdNocmduyCny1KFM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/ml-agents/ml-agents",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d3d323a-2ccb-40a2-a2b6-439673e99c1f" name="Changes" comment="" />
+      <created>1702248703524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702248703524</updated>
+    </task>
+    <servers />
+  </component>
+</project>
